@@ -111,13 +111,13 @@ body {
     margin-right: 10px;
 }
 
-.attribution {
+footer{
     padding: 1em;
     font-size: 12px;
     text-align: center;
   }
 
-  .attribution a {
+footer a {
     color: hsl(228, 45%, 44%);
   }
 
@@ -163,7 +163,7 @@ body {
     .principal__titulo {
         margin-right: 40px;
     }
-    .attribution{
+    footer{
         text-align: center;
         font-size: 14px;
     }
